@@ -16,3 +16,5 @@ _how are you_
 - More rain
 
 > scattered dragons
+
+![Person in dragon costume](/images/pexels-photo-2354073.jpeg)
