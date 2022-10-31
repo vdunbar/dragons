@@ -4,6 +4,8 @@ layout: default
 nav_order: 1
 ---
 
+welcome
+
 **to Vancouver**
 _how are you_
 
